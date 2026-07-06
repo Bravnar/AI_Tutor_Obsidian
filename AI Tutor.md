@@ -2,6 +2,8 @@
 * [[AI Chat Block]]
 * [[AI Chat]]
 * [[Exabis AI Chat Block]]
+* [[GeniAI]]
+* 
 
 
 ## Utility plugins
