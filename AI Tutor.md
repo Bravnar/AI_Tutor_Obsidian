@@ -1,12 +1,19 @@
+
+## Plan of actions
+* [[Moodle Academy]]
+* [[MCP Server]]
+* [[Moodle API]]
 ## AI Chat Blocks
 * [[AI Chat Block]]
 * [[AI Chat]]
 * [[Exabis AI Chat Block]]
 * [[GeniAI]]
 * 
-
-
 ## Utility plugins
 * [[Moodle Adminer]] - Utility tool for DB access (useful for testing purposes in the sandbox environment)
 * [[Multi-Tenancy]] - a tool that can allow to set up tenancies on Moodle to facilitate role management, perhaps a way to link to AI agent? APIs exposed
 * [[AI Manager]] - 
+
+## ILEPS MCP Solution
+
+* [[ILEPS]] Souphiane Jender - Contacted\
