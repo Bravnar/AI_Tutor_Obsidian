@@ -3,6 +3,8 @@
 * [[Moodle Academy]]
 * [[MCP Server]]
 * [[Moodle API]]
+* Explore all possible AI features natively available in Moodle, and have a look with MCPs openly available
+* 
 ## AI Chat Blocks
 * [[AI Chat Block]]
 * [[AI Chat]]

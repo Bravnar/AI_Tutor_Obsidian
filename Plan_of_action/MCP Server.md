@@ -8,4 +8,4 @@ Ideally a modified solution that exposes `core_course_get_contents`
 * Look into [[Moodle Subsystems]]
 * Look into existing Moodle MCP integrations
 * Check out the https://moodle.org/plugins/webservice_mcp
-* Check out the 
+* Check out the https://github.com/loyaniu/moodle-mcp
